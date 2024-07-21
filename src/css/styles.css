@@ -129,3 +129,7 @@ button:hover {
 .item {
   border: 1px solid #808080;
 }
+
+* {
+box-sizing: border-box;
+}
