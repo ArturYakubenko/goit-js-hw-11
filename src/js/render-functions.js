@@ -34,3 +34,4 @@ export function renderGallery(images) {
 export function clearGallery() {
   document.querySelector('.gallery').innerHTML = '';
 }
+//
